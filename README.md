@@ -9,7 +9,7 @@
 ## Death Percentage of travelers with or without companions
 ![Screenshot 2023-07-07 180906](https://github.com/NikhilManglik/Titanic-Data-Analytics/assets/73818714/d99cd7bb-1647-4354-aed9-6968039ea6b0)
 
-Observing the results we can see that people traveling with someone had a much higher(almost 20%) chance of survival.
+Observing the results we can see that people traveling with someone had a much higher(difference of almost 20%) chance of survival.
 
 ## Survival chance based on the price of the ticket
 ![Screenshot 2023-07-07 180914](https://github.com/NikhilManglik/Titanic-Data-Analytics/assets/73818714/f649d691-cb18-4acc-bbe9-368802bf3b26)
